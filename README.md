@@ -1,1 +1,1 @@
-<img width="743" height="700" alt="Снимок экрана_2025-11-29_21-24-33" src="https://github.com/user-attachments/assets/2825146a-2c11-48a0-a95c-64b75f9cd8ad" />
+<img width="586" height="522" alt="hypercam" src="https://github.com/user-attachments/assets/a8a3dc60-9c4f-4bbc-b9b2-76d62dc71d79" />
