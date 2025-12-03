@@ -1,6 +1,6 @@
 #include "include.h"
 
-#define APP_NAME "HyperCam 2 (Open Edition by Vlad Marmelad2001)"
+#define APP_NAME "HyperCam 2"
 
 typedef struct {
     GtkWidget *window;
